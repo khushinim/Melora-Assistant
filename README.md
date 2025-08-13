@@ -18,4 +18,9 @@ requests with openai api
 pip install openai
 will work later on ai 
 
-adding more local commands like date and time and joke
+adding more local commands like date and time and joke news
+
+
+created seperate modules for commands 
+added reusable function speak in util
+
